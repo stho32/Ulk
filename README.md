@@ -3,9 +3,9 @@
 Bevor Sie diesen Absatz lesen, möchte ich, dass Sie ohne viel Nachdenken oder sonstirgendeinen Nachforschungsfirlefans schätzen, wieviel und bis wann Sie lachen werden. Was sagt Ihnen ihr Bauchgefühl? Sagen Sie mal! Wir, die Ideenkontributoren, benötigen das um die Business-Entscheidung 
 treffen zu können, ob und wie viele Scherze wir zukünftig machen werden.
 
-Wenn Sie nicht lachen oder nicht genug lachen können, teilen Sie uns das bitte auf jeden Fall vor dem nächsten Teammeeting mit. Es kann sein, dass wir einer Reihe unheimlich wichtiger Leute bereits diverse Versprechungen gemacht haben, die ihre eigene Schätzung bereits um einiges Überschreiten. 
+Wenn Sie nicht lachen oder nicht genug lachen können, teilen Sie uns das bitte auf jeden Fall vor dem nächsten Teammeeting mit. (PS: Wir haben bereits einer Reihe unheimlich wichtiger Leute gegenüber diverse Versprechungen gemacht, die ihre eigene Schätzung bereits um einiges Überschreiten und sie wollen uns doch sicher nicht doof dastehen lassen. Schließlich sind wir *ein Team*.) 
 
-Bitte übermitteln Sie ihr verbindliches Bauchgefühl zeitnah, weil wir es schon nicht mehr erwarten können. Sie möchten doch da sicher dann nicht doof dastehen, oder?
+Bitte übermitteln Sie ihr grob geschätztes, verbindliches, Bauchgefühl zeitnah, weil wir es schon nicht mehr erwarten können. Sie möchten doch da sicher dann nicht doof dastehen, oder?
 
 Die Regeln: 
 - Sollte ihre Lachschätzung nicht laut und lang genug sein und das ist sie mit Sicherheit nicht, werden wir sie verdoppeln. Weil wir es können.
