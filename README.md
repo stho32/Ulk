@@ -38,6 +38,10 @@ Software, die bei uns gebaut wird:
 - Erfindet die Benutzerführung entgegen aller üblichen Muster neu, so dass Benutzer die Buttons überall suchen müssen und die Funktion jeder Suchleiste individuell lernen müssen.
 - Beinhält eine Reihe von "Funktionen" die im Grunde nicht vorhanden sind und von den Entwicklern über ihren E-Mail-Posteingang simuliert werden.
 
+## Wie man den Prozess versaut
+
+- Was sind Silos, und wie erschaffe ich möglichst viele davon?
+
 
 
 
