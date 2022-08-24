@@ -1,11 +1,6 @@
 # Ulk für den Alltag des modernen Softwareentwicklers
 
-Bevor Sie diesen Absatz lesen, möchten wir, dass Sie ohne viel Nachdenken oder sonstirgendeinen Nachforschungsfirlefans schätzen, wieviel und bis wann Sie lachen werden. Was sagt Ihnen ihr Bauchgefühl? Sagen Sie mal! Wir, die Ideenkontributoren, benötigen das um die Business-Entscheidung 
-treffen zu können, ob und wie viele Scherze wir zukünftig machen werden.
-
-Wenn Sie nicht lachen oder nicht genug lachen können, teilen Sie uns das bitte auf jeden Fall vor dem nächsten Teammeeting mit. (PS: Wir haben möglicherweise bereits einer Reihe unheimlich wichtiger Leute gegenüber diverse Versprechungen gemacht, die ihre eigene Schätzung bereits um einiges Überschreiten und sie wollen uns doch sicher nicht doof dastehen lassen.) 
-
-Bitte übermitteln Sie ihr grob geschätztes, <i>vertraglich verbindliches</i>, Bauchgefühl zeitnah, weil wir es schon nicht mehr erwarten können. Wir hatten die Idee erst vor kurzem oder auch schon länger, aber in jedem Fall ist sie besser, als die Ideen, mit denen wir sie gestern beworfen haben.
+Bevor Sie diesen Absatz lesen, möchten wir, dass Sie ohne viel Nachdenken oder sonstirgendeinen Nachforschungsfirlefans schätzen, wieviel und bis wann Sie lachen werden. Was sagt Ihnen ihr Bauchgefühl? Bitte übermitteln Sie ihr grob geschätztes, <i>vertraglich verbindliches</i>, Bauchgefühl zeitnah, weil wir es schon nicht mehr erwarten können. Wir hatten die Idee erst vor kurzem, uns sie ist in jedem Fall ist sie besser, als die Ideen, mit denen wir sie gestern beworfen haben.
 
 In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 
