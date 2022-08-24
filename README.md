@@ -4,5 +4,7 @@ Bevor Sie diesen Absatz lesen, möchte ich, dass Sie ohne viel Nachdenken oder s
 treffen zu können, ob wir uns Gedanken über weitere Witze machen werden. Das sehen Sie sicher ein. 
 
 Wenn Sie nicht lachen oder nicht genug lachen können, teilen Sie uns das bitte im Vorhinein mit, dass ist wichtig, weil 
-einige von uns möglicherweise beim Überqueren unserer Deadline ansonsten unser Leben verlieren.
+einige von uns möglicherweise beim Überqueren unserer Deadline ansonsten unser Leben verlieren. Es ist dann besser, dieses Projekt gleich am Anfang zu stoppen.
+
+
 
