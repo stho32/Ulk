@@ -12,6 +12,7 @@ In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 
 - "Wenn das Programm nicht funktionieren muss, können wir es auf jeden Fall noch heute fertigstellen!" 
 - "Wenn wir die üblichen Fehler rauslassen, dann könnten wir nur halb so viel Zeit brauchen. Aber wir würden unseren Ruf riskieren."
+- "Wenn unter Druck Diamanten entstehen, stellen Sie sich vor, was erst passiert, wenn Sie die restliche Entwicklungszeit komplett streichen!"
 
 ## Lieder Ulk - "Programmieren, das Musical"
 
