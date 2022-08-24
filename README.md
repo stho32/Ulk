@@ -7,13 +7,6 @@ Wenn Sie nicht lachen oder nicht genug lachen können, teilen Sie uns das bitte 
 
 Bitte übermitteln Sie ihr grob geschätztes, <i>vertraglich verbindliches</i>, Bauchgefühl zeitnah, weil wir es schon nicht mehr erwarten können. Wir hatten die Idee erst vor kurzem oder auch schon länger, aber in jedem Fall ist sie besser, als die Ideen, mit denen wir sie gestern beworfen haben.
 
-Die Regeln: 
-- Sollte ihre Lachschätzung nicht laut und lang genug sein und das ist sie mit Sicherheit nicht, werden wir sie verdoppeln. Weil wir es können.
-- Sollten Sie nicht laut genug oder lange genug lachen, werden wir behaupten, dass Sie schuld sind. Unser Plan war fehlerfrei, aber man kann halt nicht immer mit Profis arbeiten.
-- Sie können "nein" sagen, aber überlegen sie, schließlich können wir sie ja zum Lachen nicht zwingen. Oder? Oder?
-
-Zusammengefasst: von uns trägt hier keiner auch nur die leiseste Verantwortung, es sei denn, es wird ein Erfolg. Dann haben wir von Anfang an die Verantwortung getragen.
-
 In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 
 ## Die richtige Auskunft zu Aufwand geben - "Richtig falsch schätzen"
