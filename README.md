@@ -34,6 +34,9 @@ Software, die bei uns gebaut wird:
 ## Wie man den Prozess versaut
 
 - Was sind Silos, und wie erschaffe ich möglichst viele davon?
+- Entlassen Sie Wert aus jeglicher Betrachtung, wenn es darum geht, Aufgaben zu wählen.
+
+## Das richtige Team
 
 
 
