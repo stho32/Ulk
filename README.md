@@ -1,4 +1,4 @@
-# Ulk für den Alltag des modernen Softwareentwicklers
+# Schwarzer Humor für den Alltag des modernen Softwareentwicklers
 
 Bevor Sie diesen Absatz lesen, möchten wir, dass Sie ohne viel Nachdenken oder sonstirgendeinen Nachforschungsfirlefans schätzen, wieviel und bis wann Sie lachen werden. Was sagt Ihnen ihr Bauchgefühl? 
 
