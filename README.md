@@ -16,5 +16,18 @@ Zusammengefasst: von uns trägt hier keiner auch nur die leiseste Verantwortung,
 
 In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 
+## Die richtige Auskunft zu Aufwand geben - "Richtig falsch schätzen"
 
+- "Wenn das Programm nicht funktionieren muss, können wir es auf jeden Fall noch heute fertigstellen!" 
+
+## Lieder Ulk - "Programmieren, das Musical"
+
+- Du hast das Semikolon vergessen...
+- 
+
+## Sprüche für die nächste Projektbesprechung
+
+## Stand-Up Meeting Comedy
+
+## 
 
