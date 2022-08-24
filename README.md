@@ -17,7 +17,7 @@ In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 ## Lieder Ulk - "Programmieren, das Musical"
 
 - Du hast das Semikolon vergessen...
-- Have you seen the old part, of that old fat program? Method names so ugly, that noone dares to read? (Streets of London)
+- Have you seen the old part, of that old fat program? Method names so ugly, that noone dares to smile? It does barely function yet alone's achieving something, coded for requirements that are long dead and gone. (Streets of London)
 
 ## Sprüche für die nächste Projektbesprechung
 
