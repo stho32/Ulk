@@ -1,6 +1,12 @@
 # Ulk für den Alltag des modernen Softwareentwicklers
 
-Bevor Sie diesen Absatz lesen, möchten wir, dass Sie ohne viel Nachdenken oder sonstirgendeinen Nachforschungsfirlefans schätzen, wieviel und bis wann Sie lachen werden. Was sagt Ihnen ihr Bauchgefühl? Bitte übermitteln Sie ihr grob geschätztes, <i>vertraglich verbindliches</i>, Bauchgefühl zeitnah, weil wir es schon nicht mehr erwarten können. Wir hatten die Idee erst vor kurzem, uns sie ist in jedem Fall ist sie besser, als die Ideen, mit denen wir sie gestern beworfen haben.
+Bevor Sie diesen Absatz lesen, möchten wir, dass Sie ohne viel Nachdenken oder sonstirgendeinen Nachforschungsfirlefans schätzen, wieviel und bis wann Sie lachen werden. 
+
+Was sagt Ihnen ihr Bauchgefühl? 
+
+Bitte übermitteln Sie ihr grob geschätztes, <i>vertraglich verbindliches</i>, Bauchgefühl zeitnah, weil wir es schon nicht mehr erwarten können. 
+
+Wir hatten die Idee erst vor kurzem, uns sie ist in jedem Fall ist sie besser, als die Ideen, mit denen wir sie gestern beworfen haben.
 
 In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 
