@@ -41,7 +41,7 @@ Software, die bei uns gebaut wird:
 - Funktioniert maximal grob und nur auf dem Hauptpfad. Sobald man davon abweicht schmiert das ganze Ding ab.
 - Ist erbrechend langsam und befindet sich während der Ausführung größtenteils knapp vor dem Timeout.
 - Erfindet die Benutzerführung entgegen aller üblichen Muster neu, so dass Benutzer die Buttons überall suchen müssen und die Bedienung jedes Teilschritts individuell erlernen müssen.
-- Beinhält eine Reihe von "Funktionen" die im Grunde nicht vorhanden sind und von den Entwicklern über ihren E-Mail-Posteingang simuliert werden.
+- Beinhält eine Reihe von "Funktionen" die im Grunde nicht vorhanden sind und von den Entwicklern über ihren E-Mail-Posteingang simuliert werden. Oder auch Individualfunktionen: Lieferscheinauswertung von Eik, Lieferscheinauswertung von Bob, ...
 
 
 ## Wie man den Prozess versaut
