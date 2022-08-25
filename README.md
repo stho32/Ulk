@@ -49,6 +49,7 @@ Software, die bei uns gebaut wird:
 - Was sind Silos, und wie erschaffe ich möglichst viele davon?
 - Entlassen Sie Wert aus jeglicher Betrachtung, wenn es darum geht, Aufgaben zu wählen. Wichtig sind die Aufgaben, bei denen sich jemand unmittelbar zuletzt beschwert hat, sowie das man damit 40+ Stunden füllen kann. Sind Sie dabei nicht produktiv genug, kompensieren Sie durch Überstunden.
 - Vereinheitlichen Sie Anforderungen vor der Beauftragung nicht, auf diese Weise erreichen Sie lustige Pingpongspiele, bei denen eine Funktion zwischen den jeweiligen Vorlieben einzelner Auftraggeber hin- und hergebaut wird. Oder bauen Sie Individualfunktionen: Lieferscheinauswertung von Eik, Lieferscheinauswertung von Bob, ...
+- Statt Teamarbeit: Fördern Sie Kämpfe zwischen Management und Entwicklung, wer hier das Sagen hat! Wenn Entscheidungen hinter verschlossenen Türen getroffen werden und nicht ordentlich bidirektional kommuniziert wird, haben Sie die Möglichkeit Konflikte und Ineffizienz jeden Tag neu zu erleben.
 
 ## Das richtige Team
 
