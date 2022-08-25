@@ -23,7 +23,7 @@ In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 
 - "Wenn das Programm nicht funktionieren muss, können wir es auf jeden Fall noch heute fertigstellen!" 
 - "Wenn wir die üblichen Fehler rauslassen, dann könnten wir nur halb so viel Zeit brauchen. Aber wir würden unseren Ruf riskieren."
-- "Wir Wissen, dass unter Druck Diamanten entstehen. Wenn wir jetzt noch Panik und Todesangst dazunehmen...!"
+- "Wir wissen, dass unter Druck Diamanten entstehen. Wenn wir jetzt noch Panik und Todesangst dazunehmen...!"
 
 ## Lieder Ulk - "Programmieren, das Musical"
 
