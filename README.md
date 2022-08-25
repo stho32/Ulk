@@ -47,7 +47,7 @@ Software, die bei uns gebaut wird:
 ## Wie man den Prozess versaut
 
 - Was sind Silos, und wie erschaffe ich möglichst viele davon?
-- Entlassen Sie Wert aus jeglicher Betrachtung, wenn es darum geht, Aufgaben zu wählen. Wichtig sind die Aufgaben, bei denen sich jemand unmittelbar zuletzt beschwert hat, sowie das mna damit 40+ Stunden füllen kann. 
+- Entlassen Sie Wert aus jeglicher Betrachtung, wenn es darum geht, Aufgaben zu wählen. Wichtig sind die Aufgaben, bei denen sich jemand unmittelbar zuletzt beschwert hat, sowie das man damit 40+ Stunden füllen kann. Sind Sie dabei nicht produktiv genug, kompensieren Sie durch Überstunden.
 - Vereinheitlichen Sie Anforderungen vor der Beauftragung nicht, auf diese Weise erreichen Sie lustige Pingpongspiele, bei denen eine Funktion zwischen den jeweiligen Vorlieben einzelner Auftraggeber hin- und hergebaut wird.
 
 ## Das richtige Team
