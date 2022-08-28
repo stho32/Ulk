@@ -1,14 +1,3 @@
-Todo:
-- Scherze
-- Andeutungshumor
-- Schwarzer Humor
-- musikalischer Humor
-- Ironie
-- Zynismus
-- Sarkasmus
-- Satire
-
-
 # Humor für den Alltag des modernen Softwareentwicklers
 
 Bevor Sie diesen Absatz lesen, möchten wir, dass Sie ohne viel Nachdenken oder sonstirgendeinen Nachforschungsfirlefans schätzen, wieviel und bis wann Sie lachen werden. Was sagt Ihnen ihr Bauchgefühl? 
@@ -18,6 +7,12 @@ Bitte übermitteln Sie ihr grob geschätztes, <i>vertraglich verbindliches</i>, 
 Wir hatten die Idee erst vor kurzem, uns sie ist in jedem Fall ist sie besser, als die Ideen, mit denen wir sie gestern beworfen haben.
 
 In diesem Sinne viel Spaß bei der Lektüre 🙂 .
+
+
+## Inhalt
+
+- [Richtig-falsch-schätzen](richtig-falsch-schaetzen.md)
+
 
 ## Die richtige Auskunft zu Aufwand geben - "Richtig falsch schätzen"
 
