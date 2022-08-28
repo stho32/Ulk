@@ -1,10 +1,35 @@
 # Die richtige Auskunft zu Aufwand geben - "Richtig falsch schätzen"
 
-Werden Sie nach dem nötigen Aufwand für eine Entwicklung gefragt, sind dem Ulk im Grunde keine Grenzen gesetzt. Schon alleine deshalb, weil Sie im Grunde nur ins Fettnäpfchen treten können. Folglich sind erfahrene Entwickler in diesem Bereich recht Leidgeprüft.
-
 > "Wenn das Programm nicht funktionieren muss, können wir es auf jeden Fall noch heute fertigstellen!"
 >
 > -- <cite>Unbekannt</cite>
 
-- "Wenn wir die üblichen Fehler rauslassen, dann könnten wir nur halb so viel Zeit brauchen. Aber wir würden unseren Ruf riskieren."
-- "Wir wissen, dass unter Druck Diamanten entstehen. Wenn wir jetzt noch Panik und Todesangst dazunehmen...!"
+Es gibt diverse klevere Taktiken "agil" mit dem Problem umgehen. Benutzen sie sie bitte nicht. Warum? Nur so können sie das volle Ausmaß an Spaß erreichen.
+
+Im Kopf vieler Manager weiterhin hartnäckig das Gerücht, es gäbe so etwas wie eine richtige Schätzung. Bestärken sie sie darin. Im Gegenzug wird man sich verstanden fühlen. Nicht nur das. Während ihre Reputation sich verbessert hat, haben sie gleichzeitig das Tor zu jeder Menge Ulk geöffnet.
+
+## Humorvolle Lösungsstrategien des rebellisch veranlagten Entwicklers
+
+### Willkürliche Zeiträume
+
+Sie können in Schätzungen eh nur falsch liegen. Warum also den Aufwand einer echten Schätzung betreiben.
+
+Sagen Sie einfach "eine Woche". Die Geschwindigkeit in der Sie das sagen, wird ihren Vorgesetzten imponieren. Sie sind offensichtlich jemand der weiß wovon er spricht. Wird die Anforderung darauf geändert, vergessen Sie aber nicht schnell ihre Schätzung zu erhöhen: "ZWEI WOCHEN!". Können wir den Button in grün haben? "DREI WOCHEN!". Hervorragend. Nun können Sie jederzeit einen Entwicklungsaufwand schätzen. Und es ist ganz einfach!
+
+Steigern lässt sich diese Methode nur noch, wenn Sie Leuten ungewollt Aufwandsschätzungen geben. "Guten Morgen, Herr Meier! Die Antworten auf ihre nächsten drei Fragen sind vermutlich: ja, ich überlege, drei Wochen.".
+
+### Einsatz künstlicher Intelligenz
+
+Als Entwickler ist man neuen Themen ja aufgeschlossen. Also warum nicht KI zum Schätzen einsetzen? Die ist rein logisch den gleichen Problemen, aber es entlastet sie ebenfalls davon, über die Schätzung nachdenken zu müssen. 
+
+Sie müssen nun am Schätzen nicht einmal mehr aktiv teilnehmen. Bauen Sie eine Webseite, in der ihre Vorgesetzten in ein Textfeld ihre Aufgabe eingeben. Hier können Sie so lange mit der Aufgabenbeschreibung spielen, bis ihnen die Antwort gefällt.
+
+Da Ihnen in diesem Lösungsansatz als Entwickler nach der Erstellung der Webseite keine Arbeit mehr zufällt, können Sie sich auf das Entwickeln von Software konzentrieren. Das bringt zusätzlich Produktivität, auch wenn es eine gute Chance gibt, dass es ihren Vorgesetzten nicht auffällt.
+
+### Wenn Sie gekürzt werden
+
+Verdoppeln sie bei jedem Ansatz von Kürzungen einfach ihren Eingangs-Schätzwert. Es wird ihnen schwer fallen, ihr Chef dagegen rechnet eh damit und drittelt ihre nächste Schätzung. Es ist ja nur logisch.
+
+Wenn Sie es schaffen, ihre eigenen Schätzungen in den Augen ihres Chefs zu degradieren, wird er das schätzen voll übernehmen und sie haben gewonnen.
+
+Nun behaupten sie mal, das wäre kein systematischer Ansatz!
