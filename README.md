@@ -12,12 +12,8 @@ In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 ## Inhalt
 
 - [Richtig-falsch-schätzen](richtig-falsch-schaetzen.md)
+- [Programmieren, das Musical](lieder/README.md)
 
-
-## Lieder Ulk - "Programmieren, das Musical"
-
-- Du hast das Semikolon vergessen...
-- Have you seen the old part, of that old fat program? Method names so ugly, that noone dares to smile? It does barely function yet alone's achieving something, coded for requirements that are long since dead and gone. (Streets of London)
 
 ## Sprüche für die nächste Projektbesprechung
 
