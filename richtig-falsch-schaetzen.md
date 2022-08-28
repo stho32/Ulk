@@ -6,7 +6,7 @@
 
 Es gibt diverse klevere Taktiken "agil" mit dem Problem umgehen. Benutzen sie sie bitte nicht. Warum? Nur so können sie das volle Ausmaß an Spaß erreichen.
 
-Im Kopf vieler Manager weiterhin hartnäckig das Gerücht, es gäbe so etwas wie eine richtige Schätzung. Bestärken sie sie darin. Im Gegenzug wird man sich verstanden fühlen. Nicht nur das. Während ihre Reputation sich verbessert hat, haben sie gleichzeitig das Tor zu jeder Menge Ulk geöffnet.
+Hintergrund: Im Kopf vieler Manager hält sich weiterhin hartnäckig das Gerücht, es gäbe so etwas wie eine richtige Schätzung. Bestärken sie sie darin. Sie wollen den neuen Kram eh nicht lernen, also lassen sie sie endlich in Ruhe! Im Gegenzug wird man sich verstanden fühlen. Nicht nur das. Während ihre Reputation sich verbessert hat, haben sie gleichzeitig das Tor zu jeder Menge Ulk geöffnet.
 
 ## Humorvolle Lösungsstrategien des rebellisch veranlagten Entwicklers
 
