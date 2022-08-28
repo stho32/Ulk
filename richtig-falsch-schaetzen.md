@@ -4,7 +4,7 @@
 >
 > -- <cite>Unbekannt</cite>
 
-Es gibt diverse klevere Taktiken "agil" mit dem Problem umgehen. Benutzen sie sie bitte nicht. Warum? Nur so können sie das volle Ausmaß an Spaß erreichen.
+Bei Vergleichen mit anderen Kunstformen ist Softwareentwicklung in der Art der Arbeit eher mit Design verwandt, als mit Produktion. Das hat diverse Konsequenzen, auch für Schätzungen. Verraten sie das aber bitte nicht. Warum? Nur so können sie das volle Ausmaß an Spaß erreichen.
 
 Hintergrund: Im Kopf vieler Manager hält sich weiterhin hartnäckig das Gerücht, es gäbe so etwas wie eine richtige Schätzung. Bestärken sie sie darin. Sie wollen den neuen Kram eh nicht lernen, also lassen sie sie endlich in Ruhe! Im Gegenzug wird man sich verstanden fühlen. Nicht nur das. Während ihre Reputation sich verbessert hat, haben sie gleichzeitig das Tor zu jeder Menge Ulk geöffnet.
 
@@ -12,11 +12,15 @@ Hintergrund: Im Kopf vieler Manager hält sich weiterhin hartnäckig das Gerüch
 
 ### Willkürliche Zeiträume
 
-Sie können in Schätzungen eh nur falsch liegen. Warum also den Aufwand einer echten Schätzung betreiben.
+Sie können in Schätzungen eh nur falsch liegen. Warum also den Aufwand einer echten Schätzung betreiben?
 
 Sagen Sie einfach "eine Woche". Die Geschwindigkeit in der Sie das sagen, wird ihren Vorgesetzten imponieren. Sie sind offensichtlich jemand der weiß wovon er spricht. Wird die Anforderung darauf geändert, vergessen Sie aber nicht schnell ihre Schätzung zu erhöhen: "ZWEI WOCHEN!". Können wir den Button in grün haben? "DREI WOCHEN!". Hervorragend. Nun können Sie jederzeit einen Entwicklungsaufwand schätzen. Und es ist ganz einfach!
 
 Steigern lässt sich diese Methode nur noch, wenn Sie Leuten ungewollt Aufwandsschätzungen geben. "Guten Morgen, Herr Meier! Die Antworten auf ihre nächsten drei Fragen sind vermutlich: ja, ich überlege, drei Wochen.".
+
+### Die perfekte Präzision
+
+Um den Verdacht der perfekten Präzision zu bestärken, geben Sie ab jetzt ihre Schätzungen in Millisekunden an!
 
 ### Einsatz künstlicher Intelligenz
 
@@ -33,3 +37,10 @@ Verdoppeln sie bei jedem Ansatz von Kürzungen einfach ihren Eingangs-Schätzwer
 Wenn Sie es schaffen, ihre eigenen Schätzungen in den Augen ihres Chefs zu degradieren, wird er das schätzen voll übernehmen und sie haben gewonnen.
 
 Nun behaupten sie mal, das wäre kein systematischer Ansatz!
+
+### Hübsche Tabellen
+
+Verbessern sie ihre Schätzungen durch die Aufzählung von Eigenschaften. Also für diese Anforderungen brauchen sie 5 Tabellen und ein Fenster mit 3 Buttons.
+5 x 1 x 3 = 15 Stunden. Fertig. Das vernachlässigt auf elegante und nachvollziehbare Weise, dass die Tabellen vermutlich in einem Zusammenhang stehen und die kleine Varianz, die daraus entstehen kann, dass die Buttons entweder eine Sternenkarte in 3D auf einen Plotter rendern oder eine Zufallszahl ausgeben. Gleichzeitig wird die Schätzung als Hieb- und Stichfest gesehen werden. Schließlich gibt es eine Formel!
+
+Gibt es Abweichungen, ist es halt so. Es ist schließlich eine Schätzung. Aber da sie sich so viel Mühe gemacht haben, wird man ihnen das vermutlich nachsehen.
