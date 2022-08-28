@@ -14,12 +14,6 @@ In diesem Sinne viel Spaß bei der Lektüre 🙂 .
 - [Richtig-falsch-schätzen](richtig-falsch-schaetzen.md)
 
 
-## Die richtige Auskunft zu Aufwand geben - "Richtig falsch schätzen"
-
-- "Wenn das Programm nicht funktionieren muss, können wir es auf jeden Fall noch heute fertigstellen!" 
-- "Wenn wir die üblichen Fehler rauslassen, dann könnten wir nur halb so viel Zeit brauchen. Aber wir würden unseren Ruf riskieren."
-- "Wir wissen, dass unter Druck Diamanten entstehen. Wenn wir jetzt noch Panik und Todesangst dazunehmen...!"
-
 ## Lieder Ulk - "Programmieren, das Musical"
 
 - Du hast das Semikolon vergessen...
