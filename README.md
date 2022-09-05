@@ -39,6 +39,11 @@ Software, die bei uns gebaut wird:
 ## Das richtige Team
 
 
+## Witze
+
+ - A: Misst, gestern hab ich so einen guten Witz gefunden, den wollte ich hier bringen, aber ich kann mich nicht mehr erinnern. 
+ - B: Kein Problem, wenn er Dir wieder einfällt, sag bescheid, dann schreiben wir ihn gleich in unser Witz-Repository.
+
 
 
 
