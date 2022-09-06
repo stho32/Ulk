@@ -48,3 +48,4 @@ Software, die bei uns gebaut wird:
  - "Die letzte Kiepe Holz - ein Brennfilm"
 
 
+- The code was hard to write, it should be hard to read!
