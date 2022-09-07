@@ -49,3 +49,5 @@ Software, die bei uns gebaut wird:
 
 
 - The code was hard to write, it should be hard to read!
+
+- Never trust a running system!
