@@ -55,3 +55,5 @@ Software, die bei uns gebaut wird:
 - 10 kleine Datenbanken... :)
 
 - Wake me up, before you code code
+
+- Get the db table - aha aha - Get the db table - aha aha ; and all the girls say I'm pretty fly - for a coding guy (Pretty Fly, Offspring)
