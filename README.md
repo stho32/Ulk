@@ -53,3 +53,5 @@ Software, die bei uns gebaut wird:
 - Never trust a running system!
 
 - 10 kleine Datenbanken... :)
+
+- Wake me up, before you code code
