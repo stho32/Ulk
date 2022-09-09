@@ -59,3 +59,5 @@ Software, die bei uns gebaut wird:
 - Get the db table - aha aha - Get the db table - aha aha ; and all the girls say I'm pretty fly - for a coding guy (Pretty Fly, Offspring)
 
 - Wie nennt man eine Zeichenkette in der nur Wahrheiten stehen? - VARCHAR 
+
+- Lieber xxx, der Fehler den Du beschreibst hat leider inzwischen ein Alter erreicht, in dem wir uns nicht mehr trauen ihn ohne sein Einverständnis zu beheben. (Er ist volljährig.)
