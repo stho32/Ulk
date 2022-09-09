@@ -57,3 +57,5 @@ Software, die bei uns gebaut wird:
 - Wake me up, before you code code
 
 - Get the db table - aha aha - Get the db table - aha aha ; and all the girls say I'm pretty fly - for a coding guy (Pretty Fly, Offspring)
+
+- Wie nennt man eine Zeichenkette in der nur Wahrheiten stehen? - VARCHAR 
